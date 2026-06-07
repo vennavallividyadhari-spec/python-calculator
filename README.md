@@ -12,4 +12,4 @@ A simple calculator project built using Python.
 - Python
 
 ## Author
-Vidyadharion-calculator
+Vidyadhari
